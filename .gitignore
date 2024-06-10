@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Saltamos el directorio de Data ###
+data/
