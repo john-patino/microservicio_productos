@@ -1,0 +1,34 @@
+# Ignorar archivos y directorios de Maven
+target/
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.tag
+release.properties
+
+# Ignorar archivos y directorios de Gradle (si aplica)
+.gradle/
+build/
+
+# Ignorar archivos de configuración de IDEs
+*.idea
+*.iml
+*.vscode
+*.project
+*.classpath
+*.settings/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos específicos de Docker
+Dockerfile
+docker-compose.yml
+
+# Ignorar directorios de versiones de control
+.git
+.gitignore
+.svn
